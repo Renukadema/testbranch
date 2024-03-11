@@ -1,0 +1,10 @@
+git clone
+git .gitignore
+git add
+git commit
+git push
+git pull
+git merge
+git stash
+git conflit
+git fetch
